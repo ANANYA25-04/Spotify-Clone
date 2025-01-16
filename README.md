@@ -1,1 +1,1 @@
-# SpotifyClone
+# Spotify Clone - A SpotifyClone Project
